@@ -1,0 +1,5 @@
+print("Error 301") 
+print("Config.ini")
+print("Warning. You had changed your hard disk device settings.") 
+print("Close this windows or Reset to accept and start automatic configuration of your user settings")
+print("To restore hit Crl+C y then write 'Config -n -s' to reeboot. Write help.py further assistance")

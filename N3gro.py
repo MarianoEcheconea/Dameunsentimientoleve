@@ -1,0 +1,5 @@
+print ("SyntaxError: unexpected EOF while parsing")
+print ("'N3gro.py' no se reconoce como un comando interno o externo,")
+print ("programa o archivo por lotes ejecutable.")
+print ("Por favor, escriba la 'ATTRIB' y vuelva escribir el comando 'N3gro.py'para ejecutar")
+print ("Si su configuración de #Python no permite la ejecución del archivo escriba 'Ayuda.py'")
